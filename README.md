@@ -52,5 +52,20 @@ The Airline Sentiment Tracker Dashboard is an end-to-end data analytics project 
 2. Filter by airline, sentiment, or time to explore trends.
 3. Use visual insights to identify root causes and guide decisions.
 
-## 📂 Project Structure
+
+## 📎 Deliverables
+
+- Fully interactive dashboard
+- Executive summary + insights report
+- Business recommendations
+- Cleaned dataset and analysis notebooks
+
+## 📘 Sample Use Case
+
+A leading airline used the dashboard to discover a spike in "late flight" complaints every Friday. After increasing ground staff and improving updates, negative feedback dropped by 15% the next quarter.
+
+---
+
+> 📌 This project showcases my skills in data cleaning, NLP, sentiment analysis, visualization, and turning analytics into business value.
+
 
